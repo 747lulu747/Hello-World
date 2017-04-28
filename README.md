@@ -11,7 +11,8 @@ When you check out or clone or pull you will see these update.
 These lines have added in a local workspace.
 
 
-###Revision of history:
+###Revision of history
+
 |Author      |       Time      |   Version    |    Descr     |
 |:--------   |      :-----:    |   :----:     |    :-----    |
 |Mark Yan    |     2015/07/24  |   3.0.0      |    Rebuild the old lib.|
